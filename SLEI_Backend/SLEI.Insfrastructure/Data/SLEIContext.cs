@@ -42,10 +42,10 @@ namespace SLEI.Insfrastructure.Data
             modelBuilder.Entity<Appartement>()
                .HasMany(a => a.RDVs)
                .WithOne(r => r.appartement)
-               .HasForeignKey(r => r.AppartementId);
+               .HasForeignKey(r => r.RDVId);
 
             modelBuilder.Entity<Studio>()
-               .HasMany(a => a.Images)
+               .HasMany(s => s.Images)
                .WithOne(i => i.studio)
                .HasForeignKey(i => i.StudioId);
 
@@ -53,6 +53,22 @@ namespace SLEI.Insfrastructure.Data
                .HasMany(s => s.RDVs)
                .WithOne(r => r.studio)
                .HasForeignKey(r => r.StudioId);
+
+            modelBuilder.Entity<Province>()
+                .HasOne(p => p.image)
+                .WithOne(i => i.province)
+                .HasForeignKey<Province>(p => p.ImageId); // clé étrangère dans Province
+                                                          //  .HasForeignKey(i => i.ProvinceId);
+            modelBuilder.Entity<Province>()
+               .HasMany(p => p.Villes)
+               .WithOne(v => v.province)
+               .HasForeignKey(v => v.ProvinceId);
+
+            modelBuilder.Entity<Ville>()
+                .HasMany(v => v.Logements)
+                .WithOne(l => l.ville)
+                .HasForeignKey(l => l.VilleId); // clé étrangère dans Ville
+
 
         }
 
@@ -64,6 +80,10 @@ namespace SLEI.Insfrastructure.Data
         public DbSet<Studio> Studios { get; set; }
         public DbSet<RDV> RDVs { get; set; }
         public DbSet<Image> Images { get; set; }
+
+        public DbSet<Province> Provinces { get; set; }
+
+        public DbSet<Ville> Villes { get; set; }
 
 
     }

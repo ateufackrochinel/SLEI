@@ -1,11 +1,17 @@
 using Microsoft.EntityFrameworkCore;
+using SLEI.Domain.Repository;
 using SLEI.Insfrastructure.Data;
+using SLEI.Insfrastructure.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+builder.Services.AddScoped<LogementRepository, LogementService>();
+builder.Services.AddScoped<VilleRepository, VilleService>();
+builder.Services.AddScoped<AppartementRepository, AppartementService>();
+builder.Services.AddScoped<StudioRepository, StudioService>();
 
 
 //Ajouter le contexte de bases de donnees 

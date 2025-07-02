@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace SLEI.Domain
@@ -17,9 +18,11 @@ namespace SLEI.Domain
         public float Loyer { get; set; }
         public List<Image> Images { get; set; }
 
-        [ForeignKey("Logement")]
-        public int LogementId { get; set; }
+        public int LogementId {get; set;} // cle etrangere 
+
+        [JsonIgnore]
         public Logement logement { get; set; }
+        
         public List<RDV> RDVs { get; set; }
     }
 

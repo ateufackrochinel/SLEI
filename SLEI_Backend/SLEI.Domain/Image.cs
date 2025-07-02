@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 using System.Text;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 
 namespace SLEI.Domain
@@ -12,16 +13,26 @@ public class Image
         public int ImageId { get; set; }
         public string Url { get; set; }
 
-        [ForeignKey("Logement")]
-        public int? LogementId { get; set; }  //  <-- Optionnelle (NULL autorisé
+
+        public int? LogementId { get; set; } // cle etrangere
+       
+        [JsonIgnore]  // permet d'eviter les cycles lorsqu'on ajoute un Logement
         public Logement logement { get; set; }
 
-        [ForeignKey("Appartement")]
         public int? AppartementId { get; set; }
+
+        [JsonIgnore]
         public Appartement appartement { get; set; }
 
-        [ForeignKey("Studio")]
         public int? StudioId { get; set; }
+
+        [JsonIgnore]
         public Studio studio { get; set; }
+
+        [JsonIgnore]
+        public Province province { get; set; }
+
+        [JsonIgnore]
+        public Ville ville { get; set; }
     }
 }

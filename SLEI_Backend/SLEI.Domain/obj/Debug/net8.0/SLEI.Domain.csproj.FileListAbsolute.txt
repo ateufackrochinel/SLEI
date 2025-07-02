@@ -9,3 +9,4 @@ C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\refint\SLEI.Domain.dll
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.Domain.pdb
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\ref\SLEI.Domain.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.Domain.sourcelink.json

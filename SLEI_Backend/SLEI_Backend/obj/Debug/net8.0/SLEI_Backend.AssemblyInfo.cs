@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SLEI_Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4259c14282de70181192359187d9dfba17603291")]
 [assembly: System.Reflection.AssemblyProductAttribute("SLEI_Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SLEI_Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

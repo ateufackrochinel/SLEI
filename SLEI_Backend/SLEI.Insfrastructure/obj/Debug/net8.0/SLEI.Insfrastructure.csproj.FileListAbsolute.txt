@@ -15,3 +15,4 @@ C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Insfrastructure\obj\Debug\net
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Insfrastructure\obj\Debug\net8.0\ref\SLEI.Insfrastructure.dll
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Insfrastructure\bin\Debug\net8.0\SLEI.Insfrastructure.runtimeconfig.json
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Insfrastructure\obj\Debug\net8.0\SLEI.Insfrastructure.genruntimeconfig.cache
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Insfrastructure\obj\Debug\net8.0\SLEI.Insfrastructure.sourcelink.json

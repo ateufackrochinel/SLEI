@@ -18,13 +18,10 @@ namespace SLEI.Domain
 
         // Relations optionnelles : un RDV peut concerner un appartement OU un studio
 
-        [ForeignKey("Appartement")]
         public int? AppartementId { get; set; }
         public Appartement appartement { get; set; }
 
-        [ForeignKey("Studio")]
         public int? StudioId { get; set; }
         public Studio studio { get; set; }
-
     }
 }

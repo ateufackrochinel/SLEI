@@ -94,7 +94,7 @@ namespace SLEI.Insfrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Descripction")
+                    b.Property<string>("Description")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
@@ -108,18 +108,44 @@ namespace SLEI.Insfrastructure.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<int>("VilleId")
+                        .HasColumnType("int");
+
                     b.HasKey("LogementId");
 
+                    b.HasIndex("VilleId");
+
                     b.ToTable("Logements");
+                });
+
+            modelBuilder.Entity("SLEI.Domain.Province", b =>
+                {
+                    b.Property<int>("ProvinceId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("ProvinceId"));
+
+                    b.Property<int?>("ImageId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("NomProvince")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("ProvinceId");
+
+                    b.HasIndex("ImageId")
+                        .IsUnique()
+                        .HasFilter("[ImageId] IS NOT NULL");
+
+                    b.ToTable("Provinces");
                 });
 
             modelBuilder.Entity("SLEI.Domain.RDV", b =>
                 {
                     b.Property<int>("RDVId")
-                        .ValueGeneratedOnAdd()
                         .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("RDVId"));
 
                     b.Property<int?>("AppartementId")
                         .HasColumnType("int");
@@ -138,8 +164,6 @@ namespace SLEI.Insfrastructure.Migrations
                         .HasColumnType("int");
 
                     b.HasKey("RDVId");
-
-                    b.HasIndex("AppartementId");
 
                     b.HasIndex("StudioId");
 
@@ -169,6 +193,35 @@ namespace SLEI.Insfrastructure.Migrations
                     b.HasIndex("LogementId");
 
                     b.ToTable("Studios");
+                });
+
+            modelBuilder.Entity("SLEI.Domain.Ville", b =>
+                {
+                    b.Property<int>("VilleId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("VilleId"));
+
+                    b.Property<int?>("ImageId")
+                        .HasColumnType("int");
+
+                    b.Property<string>("NomVille")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("ProvinceId")
+                        .HasColumnType("int");
+
+                    b.HasKey("VilleId");
+
+                    b.HasIndex("ImageId")
+                        .IsUnique()
+                        .HasFilter("[ImageId] IS NOT NULL");
+
+                    b.HasIndex("ProvinceId");
+
+                    b.ToTable("Villes");
                 });
 
             modelBuilder.Entity("SLEI.Domain.Appartement", b =>
@@ -203,11 +256,33 @@ namespace SLEI.Insfrastructure.Migrations
                     b.Navigation("studio");
                 });
 
+            modelBuilder.Entity("SLEI.Domain.Logement", b =>
+                {
+                    b.HasOne("SLEI.Domain.Ville", "ville")
+                        .WithMany("Logements")
+                        .HasForeignKey("VilleId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("ville");
+                });
+
+            modelBuilder.Entity("SLEI.Domain.Province", b =>
+                {
+                    b.HasOne("SLEI.Domain.Image", "image")
+                        .WithOne("province")
+                        .HasForeignKey("SLEI.Domain.Province", "ImageId");
+
+                    b.Navigation("image");
+                });
+
             modelBuilder.Entity("SLEI.Domain.RDV", b =>
                 {
                     b.HasOne("SLEI.Domain.Appartement", "appartement")
                         .WithMany("RDVs")
-                        .HasForeignKey("AppartementId");
+                        .HasForeignKey("RDVId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
 
                     b.HasOne("SLEI.Domain.Studio", "studio")
                         .WithMany("RDVs")
@@ -229,11 +304,37 @@ namespace SLEI.Insfrastructure.Migrations
                     b.Navigation("logement");
                 });
 
+            modelBuilder.Entity("SLEI.Domain.Ville", b =>
+                {
+                    b.HasOne("SLEI.Domain.Image", "image")
+                        .WithOne("ville")
+                        .HasForeignKey("SLEI.Domain.Ville", "ImageId");
+
+                    b.HasOne("SLEI.Domain.Province", "province")
+                        .WithMany("Villes")
+                        .HasForeignKey("ProvinceId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("image");
+
+                    b.Navigation("province");
+                });
+
             modelBuilder.Entity("SLEI.Domain.Appartement", b =>
                 {
                     b.Navigation("Images");
 
                     b.Navigation("RDVs");
+                });
+
+            modelBuilder.Entity("SLEI.Domain.Image", b =>
+                {
+                    b.Navigation("province")
+                        .IsRequired();
+
+                    b.Navigation("ville")
+                        .IsRequired();
                 });
 
             modelBuilder.Entity("SLEI.Domain.Logement", b =>
@@ -245,11 +346,21 @@ namespace SLEI.Insfrastructure.Migrations
                     b.Navigation("Studios");
                 });
 
+            modelBuilder.Entity("SLEI.Domain.Province", b =>
+                {
+                    b.Navigation("Villes");
+                });
+
             modelBuilder.Entity("SLEI.Domain.Studio", b =>
                 {
                     b.Navigation("Images");
 
                     b.Navigation("RDVs");
+                });
+
+            modelBuilder.Entity("SLEI.Domain.Ville", b =>
+                {
+                    b.Navigation("Logements");
                 });
 #pragma warning restore 612, 618
         }
