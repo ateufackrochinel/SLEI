@@ -21,6 +21,10 @@
       "PackagePath": "staticwebassets\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg"
     },
     {
+      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg"
+    },
+    {
       "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
       "PackagePath": "staticwebassets\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png"
     },
@@ -51,6 +55,10 @@
     {
       "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
       "PackagePath": "staticwebassets\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png"
+    },
+    {
+      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
+      "PackagePath": "staticwebassets\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.SLEI_Backend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",

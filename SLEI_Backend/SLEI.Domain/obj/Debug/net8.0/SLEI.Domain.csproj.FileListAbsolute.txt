@@ -10,3 +10,4 @@ C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\refin
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.Domain.pdb
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\ref\SLEI.Domain.dll
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.Domain.sourcelink.json
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI.Domain\obj\Debug\net8.0\SLEI.Domain.csproj.AssemblyReference.cache

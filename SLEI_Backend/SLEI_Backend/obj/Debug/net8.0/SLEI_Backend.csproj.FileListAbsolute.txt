@@ -94,3 +94,11 @@ C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\obj\Debug\net8.0\SLEI
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\obj\Debug\net8.0\SLEI_Backend.genruntimeconfig.cache
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\obj\Debug\net8.0\ref\SLEI_Backend.dll
 C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\SLEI_Backend.staticwebassets.runtime.json
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+C:\workspace\C#_ .Net_space\SLEI\SLEI_Backend\SLEI_Backend\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll

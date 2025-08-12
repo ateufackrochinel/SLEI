@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using System.Net;
 
 namespace SLEI.Insfrastructure.Data
 {
- public   class SLEIContext : DbContext
+ public   class SLEIContext : IdentityDbContext
     {
         
         public SLEIContext(DbContextOptions<SLEIContext> options) : base(options) { }
@@ -69,7 +70,9 @@ namespace SLEI.Insfrastructure.Data
                 .WithOne(l => l.ville)
                 .HasForeignKey(l => l.VilleId); // clé étrangère dans Ville
 
-
+            base.OnModelCreating(modelBuilder);/* Tres important: permet que les entitees definies dans la classe IdentityDB
+                                              puisses heriter de leur configuration
+                                                */
         }
 
 

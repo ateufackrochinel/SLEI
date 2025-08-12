@@ -11,3 +11,5 @@ wwwroot\Images\logements\5\5d62a8a0-0000-42cd-b68c-4af8b240f483.png
 wwwroot\Images\logements\6\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png
 wwwroot\Images\logements\6\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png
 wwwroot\Images\logements\7\90aa3a02-f27f-4286-9252-0919d33361ad.png
+wwwroot\Images\logements\8\244f29e1-692b-4406-974b-c3a0433936ac.png
+wwwroot\Images\Studios\1\23be7c7a-c692-4bc6-99d8-83408395163e.jpg

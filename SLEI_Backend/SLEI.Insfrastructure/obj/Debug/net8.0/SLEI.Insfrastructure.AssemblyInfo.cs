@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SLEI.Insfrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4259c14282de70181192359187d9dfba17603291")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd5a3d73dd4245cca24c305a1b0118c2bab0e4b6")]
 [assembly: System.Reflection.AssemblyProductAttribute("SLEI.Insfrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SLEI.Insfrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

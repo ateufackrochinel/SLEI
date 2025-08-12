@@ -3,16 +3,76 @@
   "WorkspaceRootPath": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\controllers\\authenticatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\security\\jwtmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\security\\jwtmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\data\\sleicontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\data\\sleicontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\data\\sleicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\data\\sleicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\controllers\\logementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\controllers\\logementcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\dtos\\authenticateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\dtos\\authenticateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\ajouterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\ajouterrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\slei.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\slei.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\repository\\studiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\repository\\studiorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\migrations\\20250718141956_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\migrations\\20250718141956_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\slei_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\slei_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\appartement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\studio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\logement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\logement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\services\\studioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\services\\studioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\ville.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +83,8 @@
       "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\services\\logementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\services\\appartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\services\\appartementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\services\\studioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\services\\studioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\services\\villeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +93,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\repository\\appartementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\repository\\appartementrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|solutionrelative:slei.domain\\rdv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A3B04FA0-08A0-4AAB-AC14-BEF756EB8973}|SLEI.Domain\\SLEI.Domain.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.domain\\image.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -61,10 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei_backend\\dtos\\logementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA8CC7BA-374B-42A2-8393-BA88526C1414}|SLEI_Backend\\SLEI_Backend.csproj|solutionrelative:slei_backend\\dtos\\logementdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|c:\\workspace\\c#_ .net_space\\slei\\slei_backend\\slei.insfrastructure\\data\\sleicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4D61873-6FC1-4E5E-ADF0-54831CCA2E70}|SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj|solutionrelative:slei.insfrastructure\\data\\sleicontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,62 +118,114 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LogementController.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\LogementController.cs",
-              "RelativeDocumentMoniker": "SLEI_Backend\\Controllers\\LogementController.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\LogementController.cs",
-              "RelativeToolTip": "SLEI_Backend\\Controllers\\LogementController.cs",
-              "ViewState": "AgIAAI0AAAAAAAAAAAAAAJYAAABbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T12:20:01.094Z",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "SLEI_Backend\\appsettings.json",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\appsettings.json",
+              "RelativeToolTip": "SLEI_Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-09T22:34:57.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "StudioService.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\StudioService.cs",
-              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\StudioService.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\StudioService.cs",
-              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\StudioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AuthenticateController.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\AuthenticateController.cs",
+              "RelativeDocumentMoniker": "SLEI_Backend\\Controllers\\AuthenticateController.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\AuthenticateController.cs",
+              "RelativeToolTip": "SLEI_Backend\\Controllers\\AuthenticateController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAGkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:20:44.354Z"
+              "WhenOpened": "2025-07-23T13:51:58.319Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Appartement.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Appartement.cs",
-              "RelativeDocumentMoniker": "SLEI.Domain\\Appartement.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Appartement.cs",
-              "RelativeToolTip": "SLEI.Domain\\Appartement.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA+wBYAAAAUAAAAAAAAAA==",
+              "Title": "JwtMethod.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Security\\JwtMethod.cs",
+              "RelativeDocumentMoniker": "SLEI_Backend\\Security\\JwtMethod.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Security\\JwtMethod.cs",
+              "RelativeToolTip": "SLEI_Backend\\Security\\JwtMethod.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:19:19.954Z",
+              "WhenOpened": "2025-07-18T14:46:11.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20250718141956_AddIdentity.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Migrations\\20250718141956_AddIdentity.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Migrations\\20250718141956_AddIdentity.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Migrations\\20250718141956_AddIdentity.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Migrations\\20250718141956_AddIdentity.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAIUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T14:26:26.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SLEIContext.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContext.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Data\\SLEIContext.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContext.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Data\\SLEIContext.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAABsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:51:32.433Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Logement.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Logement.cs",
-              "RelativeDocumentMoniker": "SLEI.Domain\\Logement.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Logement.cs",
-              "RelativeToolTip": "SLEI.Domain\\Logement.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Program.cs",
+              "RelativeDocumentMoniker": "SLEI_Backend\\Program.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Program.cs",
+              "RelativeToolTip": "SLEI_Backend\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T13:18:50.894Z",
+              "WhenOpened": "2025-06-28T14:14:29.377Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
+              "Title": "AuthenticateUserDto.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Dtos\\AuthenticateUserDto.cs",
+              "RelativeDocumentMoniker": "SLEI_Backend\\Dtos\\AuthenticateUserDto.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Dtos\\AuthenticateUserDto.cs",
+              "RelativeToolTip": "SLEI_Backend\\Dtos\\AuthenticateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T13:56:51.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SLEIContextFactory.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContextFactory.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Data\\SLEIContextFactory.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContextFactory.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Data\\SLEIContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T15:10:50.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "AppartementRepository.cs",
               "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Repository\\AppartementRepository.cs",
               "RelativeDocumentMoniker": "SLEI.Domain\\Repository\\AppartementRepository.cs",
@@ -141,95 +237,188 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Program.cs",
-              "RelativeDocumentMoniker": "SLEI_Backend\\Program.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Program.cs",
-              "RelativeToolTip": "SLEI_Backend\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAwAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T14:14:29.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "AppartementService.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\AppartementService.cs",
-              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\AppartementService.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\AppartementService.cs",
-              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\AppartementService.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Title": "LogementController.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\LogementController.cs",
+              "RelativeDocumentMoniker": "SLEI_Backend\\Controllers\\LogementController.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Controllers\\LogementController.cs",
+              "RelativeToolTip": "SLEI_Backend\\Controllers\\LogementController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T13:20:24.852Z",
+              "WhenOpened": "2025-07-02T12:20:01.094Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "VilleService.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\VilleService.cs",
-              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\VilleService.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\VilleService.cs",
-              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\VilleService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
+              "Title": "AjouterRole.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\AjouterRole.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\AjouterRole.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\AjouterRole.cs",
+              "RelativeToolTip": "SLEI.Domain\\AjouterRole.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T02:19:26.399Z"
+              "WhenOpened": "2025-08-06T14:04:10.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Image.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Image.cs",
-              "RelativeDocumentMoniker": "SLEI.Domain\\Image.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Image.cs",
-              "RelativeToolTip": "SLEI.Domain\\Image.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T12:54:52.837Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Ville.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Ville.cs",
-              "RelativeDocumentMoniker": "SLEI.Domain\\Ville.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Ville.cs",
-              "RelativeToolTip": "SLEI.Domain\\Ville.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T01:59:46.48Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LogementService.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\LogementService.cs",
-              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\LogementService.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\LogementService.cs",
-              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\LogementService.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-02T12:28:55.846Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "SLEI.Domain.csproj",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
+              "RelativeDocumentMoniker": "SLEI.Domain\\SLEI.Domain.csproj",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
+              "RelativeToolTip": "SLEI.Domain\\SLEI.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-06T14:02:58.626Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
+              "Title": "StudioRepository.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Repository\\StudioRepository.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Repository\\StudioRepository.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Repository\\StudioRepository.cs",
+              "RelativeToolTip": "SLEI.Domain\\Repository\\StudioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:40:04.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SLEI_Backend.csproj",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\SLEI_Backend.csproj",
+              "RelativeDocumentMoniker": "SLEI_Backend\\SLEI_Backend.csproj",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\SLEI_Backend.csproj",
+              "RelativeToolTip": "SLEI_Backend\\SLEI_Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T15:04:06.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Appartement.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Appartement.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Appartement.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Appartement.cs",
+              "RelativeToolTip": "SLEI.Domain\\Appartement.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBYAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:19:19.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "RDV.cs",
               "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\RDV.cs",
               "RelativeDocumentMoniker": "SLEI.Domain\\RDV.cs",
               "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\RDV.cs",
               "RelativeToolTip": "SLEI.Domain\\RDV.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-28T02:43:40.36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
+              "Title": "Logement.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Logement.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Logement.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Logement.cs",
+              "RelativeToolTip": "SLEI.Domain\\Logement.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T13:18:50.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudioService.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\StudioService.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\StudioService.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\StudioService.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\StudioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAEBlwBwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:20:44.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Studio.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Studio.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Studio.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Studio.cs",
+              "RelativeToolTip": "SLEI.Domain\\Studio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T13:55:38.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppartementService.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\AppartementService.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\AppartementService.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\AppartementService.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\AppartementService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T13:20:24.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "VilleService.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\VilleService.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\VilleService.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\VilleService.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\VilleService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAACBjwAsAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T02:19:26.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Image.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Image.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Image.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Image.cs",
+              "RelativeToolTip": "SLEI.Domain\\Image.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAuwBcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T12:54:52.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Ville.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Ville.cs",
+              "RelativeDocumentMoniker": "SLEI.Domain\\Ville.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Ville.cs",
+              "RelativeToolTip": "SLEI.Domain\\Ville.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-28T01:59:46.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LogementService.cs",
+              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\LogementService.cs",
+              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Services\\LogementService.cs",
+              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Services\\LogementService.cs",
+              "RelativeToolTip": "SLEI.Insfrastructure\\Services\\LogementService.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:28:55.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "Province.cs",
               "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Province.cs",
               "RelativeDocumentMoniker": "SLEI.Domain\\Province.cs",
@@ -241,7 +430,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 25,
               "Title": "VilleRepository.cs",
               "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\Repository\\VilleRepository.cs",
               "RelativeDocumentMoniker": "SLEI.Domain\\Repository\\VilleRepository.cs",
@@ -253,7 +442,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 26,
               "Title": "LogementDto.cs",
               "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\Dtos\\LogementDto.cs",
               "RelativeDocumentMoniker": "SLEI_Backend\\Dtos\\LogementDto.cs",
@@ -262,18 +451,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T12:28:39.631Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "SLEIContext.cs",
-              "DocumentMoniker": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContext.cs",
-              "RelativeDocumentMoniker": "SLEI.Insfrastructure\\Data\\SLEIContext.cs",
-              "ToolTip": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\Data\\SLEIContext.cs",
-              "RelativeToolTip": "SLEI.Insfrastructure\\Data\\SLEIContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-21T16:51:32.433Z"
             }
           ]
         }

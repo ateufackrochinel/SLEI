@@ -1,7 +1,10 @@
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using SLEI.Domain;
 using SLEI.Domain.Repository;
 using SLEI.Insfrastructure.Data;
 using SLEI.Insfrastructure.Services;
+using SLEI_Backend.Security;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -22,7 +25,31 @@ builder.Services.AddDbContext<SLEIContext>(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// permet de preciser que SelfieContext sera utilisee pour l'authentification
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(    // On remplace AddDefaultIdentity par AddIdentity pour permettre de gerer aussi des roles 
+    options =>
+    {
+        options.SignIn.RequireConfirmedEmail = true;
+    }).AddEntityFrameworkStores<SLEIContext>()
+    .AddDefaultTokenProviders();
+
+
+
+
+//Ajouter le service pour la securite en passant la configuration en parametre 
+builder.Services.AddCustumAuthentication(builder.Configuration);
+
+// 2. Ajouter l’autorisation
+builder.Services.AddAuthorization();
+
 var app = builder.Build();
+
+// Ajouter les rôles à la base de données
+using (var scope = app.Services.CreateScope())
+{
+    var services = scope.ServiceProvider;
+    await AjouterRole.InitializeAsync(services);
+}
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -33,7 +60,13 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+// pour gerer l'authentification
+app.UseAuthentication();
 app.UseAuthorization();
+
+
+
+
 
 app.MapControllers();
 

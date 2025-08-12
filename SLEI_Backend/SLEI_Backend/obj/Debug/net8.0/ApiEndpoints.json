@@ -1,5 +1,37 @@
 [
   {
+    "ContainingType": "SLEI_Backend.Controllers.AuthenticateController",
+    "Method": "login",
+    "RelativePath": "api/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoUser",
+        "Type": "SLEI_Backend.Dtos.AuthenticateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "SLEI_Backend.Controllers.AuthenticateController",
+    "Method": "register",
+    "RelativePath": "api/Authenticate/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dtoUser",
+        "Type": "SLEI_Backend.Dtos.AuthenticateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SLEI_Backend.Controllers.LogementController",
     "Method": "Get",
     "RelativePath": "api/Logement",

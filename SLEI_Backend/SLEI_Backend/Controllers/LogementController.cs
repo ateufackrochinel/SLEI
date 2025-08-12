@@ -8,6 +8,7 @@ using Microsoft.EntityFrameworkCore;
 using SLEI.Insfrastructure.Data;
 using static System.Net.Mime.MediaTypeNames;
 using Image = SLEI.Domain.Image;
+using Microsoft.AspNetCore.Authorization;
 //using static System.Net.Mime.MediaTypeNames;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -16,6 +17,7 @@ namespace SLEI_Backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class LogementController : ControllerBase
     {
         private readonly SLEIContext _context = null;
@@ -54,6 +56,7 @@ namespace SLEI_Backend.Controllers
 
         // POST api/<LogementController>
         [HttpPost]
+        
         public async Task<IActionResult> AjouterLogement([FromForm] string Nom, [FromForm] string Description, [FromForm] string Adresse, [FromForm] int NbreApp,
             [FromForm] int NbreStudio, [FromForm] string NomVille, [FromForm] List<IFormFile> Images)
         {
@@ -163,7 +166,7 @@ namespace SLEI_Backend.Controllers
                 // Enregistrer les images
 
                 SaveImages("Studios", Images, Std.StudioId.ToString(), Std: Std);
-                _context.SaveChanges();
+                _context.SaveChanges();                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                 return Ok(Std);
             }
         }
