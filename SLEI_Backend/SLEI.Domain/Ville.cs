@@ -15,11 +15,14 @@ namespace SLEI.Domain
         public string NomVille { get; set;  }
 
         public int? ImageId { get; set; } // clé étrangère
+        [JsonIgnore]
         public Image image { get; set; }
 
         [JsonIgnore]
         public List<Logement> Logements { get; set; }
         public  int ProvinceId { get; set; }
+
+        [JsonIgnore]
         public Province province { get; set; }
     }
 }

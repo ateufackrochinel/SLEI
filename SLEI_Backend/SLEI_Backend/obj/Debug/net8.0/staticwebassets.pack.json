@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
       "PackagePath": "staticwebassets\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
       "PackagePath": "staticwebassets\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
       "PackagePath": "staticwebassets\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
       "PackagePath": "staticwebassets\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
       "PackagePath": "staticwebassets\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
       "PackagePath": "staticwebassets\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
       "PackagePath": "staticwebassets\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
       "PackagePath": "staticwebassets\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
       "PackagePath": "staticwebassets\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
       "PackagePath": "staticwebassets\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
       "PackagePath": "staticwebassets\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
       "PackagePath": "staticwebassets\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
       "PackagePath": "staticwebassets\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
       "PackagePath": "staticwebassets\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png"
     },
     {
-      "Id": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
+      "Id": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
       "PackagePath": "staticwebassets\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png"
     },
     {

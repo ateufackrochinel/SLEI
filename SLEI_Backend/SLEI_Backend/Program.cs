@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using SLEI.Domain;
 using SLEI.Domain.Repository;
 using SLEI.Insfrastructure.Data;
@@ -11,15 +12,30 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 
 builder.Services.AddControllers();
-builder.Services.AddScoped<LogementRepository, LogementService>();
 builder.Services.AddScoped<VilleRepository, VilleService>();
+builder.Services.AddScoped<LogementRepository, LogementService>();
 builder.Services.AddScoped<AppartementRepository, AppartementService>();
 builder.Services.AddScoped<StudioRepository, StudioService>();
 
 
 //Ajouter le contexte de bases de donnees 
 builder.Services.AddDbContext<SLEIContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+    {
+        options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+     options.EnableSensitiveDataLogging(); }
+    );
+
+// Add CORS
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAll", policy =>
+    {
+        policy
+            .AllowAnyOrigin()    // Autorise toutes les origines
+            .AllowAnyHeader()    // Autorise tous les headers
+            .AllowAnyMethod();   // Autorise GET, POST, PUT, DELETE ...
+    });
+});
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
@@ -59,6 +75,9 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+
+// CORS
+app.UseCors("AllowAll");  
 
 // pour gerer l'authentification
 app.UseAuthentication();

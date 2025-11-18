@@ -13,5 +13,7 @@ namespace SLEI.Domain.Repository
         public Logement AddLogement(Logement Log);
 
         public Logement findLogementByNom(string NomLogemnt);
+
+        public List<Logement> findLogementByNomVille(string NomVille);
    }
 }

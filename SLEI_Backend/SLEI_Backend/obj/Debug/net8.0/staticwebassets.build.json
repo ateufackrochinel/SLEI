@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9TgHwqNa8Q4ioNq9iKGXEPuBTdwSi09EeqFu7qJ0E/U=",
+  "Hash": "C74uDfnleDaEvQfnrTO/DLsdTv8yqbZUh5FDkJQQxzg=",
   "Source": "SLEI_Backend",
   "BasePath": "_content/SLEI_Backend",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "SLEI_Backend\\wwwroot",
       "Source": "SLEI_Backend",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "Pattern": "**"
     }
@@ -1277,10 +1277,10 @@
       "OriginalItemSpec": "C:\\Users\\rochi\\.nuget\\packages\\microsoft.aspnetcore.identity.ui\\8.0.16\\staticwebassets\\V5\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Appartements/1/185f5969-5131-41a0-b538-972571845d7b#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1298,10 +1298,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Appartements/2/58b94d8c-8d70-49e8-a05a-713454807843#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1319,10 +1319,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Appartements/3/b3df9e80-483c-452d-ac17-240c277a3adf#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1340,10 +1340,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Appartements/4/7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1361,10 +1361,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Appartements/5/a9dc2bed-7182-4dab-9ef5-2f48668866e7#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -1382,10 +1382,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/1/fa02a1d5-fc13-4a9b-8f31-f125023c2c08#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1403,10 +1403,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/2/bddda0eb-ff5f-4ce9-943c-023bc6629711#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1424,10 +1424,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/3/1b16a455-531d-40ae-9e34-753465a993d6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/4/3ba0bfa1-1ea7-4c98-a598-70428cf1c84d#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1466,10 +1466,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/5/5d62a8a0-0000-42cd-b68c-4af8b240f483#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1487,10 +1487,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/6/6b804148-43b9-4244-a99d-a9fe04d8e2b6#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1508,10 +1508,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/6/a3674fe2-d42b-4a7c-9242-24d87fc751a0#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1529,10 +1529,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/7/90aa3a02-f27f-4286-9252-0919d33361ad#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1550,10 +1550,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/logements/8/244f29e1-692b-4406-974b-c3a0433936ac#[.{fingerprint}]?.png",
       "AssetKind": "All",
@@ -1571,10 +1571,10 @@
       "OriginalItemSpec": "wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png"
     },
     {
-      "Identity": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
+      "Identity": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
       "SourceId": "SLEI_Backend",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
+      "ContentRoot": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\",
       "BasePath": "_content/SLEI_Backend",
       "RelativePath": "Images/Studios/1/23be7c7a-c692-4bc6-99d8-83408395163e#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
@@ -3815,7 +3815,7 @@
     },
     {
       "Route": "Images/Appartements/1/185f5969-5131-41a0-b538-972571845d7b.f111hfy0d0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3860,7 +3860,7 @@
     },
     {
       "Route": "Images/Appartements/1/185f5969-5131-41a0-b538-972571845d7b.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\1\\185f5969-5131-41a0-b538-972571845d7b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3897,7 +3897,7 @@
     },
     {
       "Route": "Images/Appartements/2/58b94d8c-8d70-49e8-a05a-713454807843.f111hfy0d0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3942,7 +3942,7 @@
     },
     {
       "Route": "Images/Appartements/2/58b94d8c-8d70-49e8-a05a-713454807843.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\2\\58b94d8c-8d70-49e8-a05a-713454807843.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3979,7 +3979,7 @@
     },
     {
       "Route": "Images/Appartements/3/b3df9e80-483c-452d-ac17-240c277a3adf.f111hfy0d0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4024,7 +4024,7 @@
     },
     {
       "Route": "Images/Appartements/3/b3df9e80-483c-452d-ac17-240c277a3adf.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\3\\b3df9e80-483c-452d-ac17-240c277a3adf.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4061,7 +4061,7 @@
     },
     {
       "Route": "Images/Appartements/4/7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.f111hfy0d0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4106,7 +4106,7 @@
     },
     {
       "Route": "Images/Appartements/4/7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\4\\7aad5ba2-7be1-4537-9e0f-6f541ba4fc3b.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4143,7 +4143,7 @@
     },
     {
       "Route": "Images/Appartements/5/a9dc2bed-7182-4dab-9ef5-2f48668866e7.2izasj2dgz.jpg",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4188,7 +4188,7 @@
     },
     {
       "Route": "Images/Appartements/5/a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Appartements\\5\\a9dc2bed-7182-4dab-9ef5-2f48668866e7.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4225,7 +4225,7 @@
     },
     {
       "Route": "Images/logements/1/fa02a1d5-fc13-4a9b-8f31-f125023c2c08.iil3o58tae.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4270,7 +4270,7 @@
     },
     {
       "Route": "Images/logements/1/fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\1\\fa02a1d5-fc13-4a9b-8f31-f125023c2c08.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4307,7 +4307,7 @@
     },
     {
       "Route": "Images/logements/2/bddda0eb-ff5f-4ce9-943c-023bc6629711.iil3o58tae.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4352,7 +4352,7 @@
     },
     {
       "Route": "Images/logements/2/bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\2\\bddda0eb-ff5f-4ce9-943c-023bc6629711.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4389,7 +4389,7 @@
     },
     {
       "Route": "Images/logements/3/1b16a455-531d-40ae-9e34-753465a993d6.iil3o58tae.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4434,7 +4434,7 @@
     },
     {
       "Route": "Images/logements/3/1b16a455-531d-40ae-9e34-753465a993d6.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\3\\1b16a455-531d-40ae-9e34-753465a993d6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4471,7 +4471,7 @@
     },
     {
       "Route": "Images/logements/4/3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.blewhtjr2y.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4516,7 +4516,7 @@
     },
     {
       "Route": "Images/logements/4/3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\4\\3ba0bfa1-1ea7-4c98-a598-70428cf1c84d.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4553,7 +4553,7 @@
     },
     {
       "Route": "Images/logements/5/5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4590,7 +4590,7 @@
     },
     {
       "Route": "Images/logements/5/5d62a8a0-0000-42cd-b68c-4af8b240f483.uy0lk1rjl0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\5\\5d62a8a0-0000-42cd-b68c-4af8b240f483.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4635,7 +4635,7 @@
     },
     {
       "Route": "Images/logements/6/6b804148-43b9-4244-a99d-a9fe04d8e2b6.3q1uovasht.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4680,7 +4680,7 @@
     },
     {
       "Route": "Images/logements/6/6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\6b804148-43b9-4244-a99d-a9fe04d8e2b6.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4717,7 +4717,7 @@
     },
     {
       "Route": "Images/logements/6/a3674fe2-d42b-4a7c-9242-24d87fc751a0.bbbklx1qby.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4762,7 +4762,7 @@
     },
     {
       "Route": "Images/logements/6/a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\6\\a3674fe2-d42b-4a7c-9242-24d87fc751a0.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4799,7 +4799,7 @@
     },
     {
       "Route": "Images/logements/7/90aa3a02-f27f-4286-9252-0919d33361ad.f111hfy0d0.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4844,7 +4844,7 @@
     },
     {
       "Route": "Images/logements/7/90aa3a02-f27f-4286-9252-0919d33361ad.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\7\\90aa3a02-f27f-4286-9252-0919d33361ad.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4881,7 +4881,7 @@
     },
     {
       "Route": "Images/logements/8/244f29e1-692b-4406-974b-c3a0433936ac.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4918,7 +4918,7 @@
     },
     {
       "Route": "Images/logements/8/244f29e1-692b-4406-974b-c3a0433936ac.rmhfmxcrsg.png",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\logements\\8\\244f29e1-692b-4406-974b-c3a0433936ac.png",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4963,7 +4963,7 @@
     },
     {
       "Route": "Images/Studios/1/23be7c7a-c692-4bc6-99d8-83408395163e.2izasj2dgz.jpg",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -5008,7 +5008,7 @@
     },
     {
       "Route": "Images/Studios/1/23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
-      "AssetFile": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
+      "AssetFile": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI_Backend\\wwwroot\\Images\\Studios\\1\\23be7c7a-c692-4bc6-99d8-83408395163e.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {

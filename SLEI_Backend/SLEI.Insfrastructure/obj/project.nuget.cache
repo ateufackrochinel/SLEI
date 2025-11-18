@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9pcqbgCAJ3g=",
+  "dgSpecHash": "w8qR5BnmiXw=",
   "success": true,
-  "projectFilePath": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj",
+  "projectFilePath": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Insfrastructure\\SLEI.Insfrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rochi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\rochi\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

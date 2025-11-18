@@ -230,6 +230,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "SLEI_Backend.Controllers.LogementController",
+    "Method": "getAllLogements",
+    "RelativePath": "api/Logement/ListeLogements",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "NomVille",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SLEI_Backend.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",

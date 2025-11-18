@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj": {}
+    "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj": {
+    "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
+        "projectUniqueName": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
         "projectName": "SLEI.Domain",
-        "projectPath": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
+        "projectPath": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\SLEI.Domain.csproj",
         "packagesPath": "C:\\Users\\rochi\\.nuget\\packages\\",
-        "outputPath": "C:\\workspace\\C#_ .Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\obj\\",
+        "outputPath": "C:\\workspace\\CSharp_ Net_space\\SLEI\\SLEI_Backend\\SLEI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -380,6 +380,27 @@
         }
       }
     },
+    "/api/Logement/ListeLogements": {
+      "get": {
+        "tags": [
+          "Logement"
+        ],
+        "parameters": [
+          {
+            "name": "NomVille",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [

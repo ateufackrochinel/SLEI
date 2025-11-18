@@ -17,7 +17,7 @@ namespace SLEI_Backend.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    [Authorize]
+    
     public class LogementController : ControllerBase
     {
         private readonly SLEIContext _context = null;
@@ -56,7 +56,7 @@ namespace SLEI_Backend.Controllers
 
         // POST api/<LogementController>
         [HttpPost]
-        
+        //[Authorize]
         public async Task<IActionResult> AjouterLogement([FromForm] string Nom, [FromForm] string Description, [FromForm] string Adresse, [FromForm] int NbreApp,
             [FromForm] int NbreStudio, [FromForm] string NomVille, [FromForm] List<IFormFile> Images)
         {
@@ -91,6 +91,7 @@ namespace SLEI_Backend.Controllers
 
 
                 this._LogementRepository.AddLogement(logement);  // pour obtenir l'ID du logement
+                
                 // Sauvegarder les images sur le disque
 
                 SaveImages("logements", Images, logement.LogementId.ToString(), logement:logement);
@@ -106,6 +107,7 @@ namespace SLEI_Backend.Controllers
        
         [Route("AjouterAppartement")]
         [HttpPost]
+        [Authorize]
         public async Task <IActionResult> AjouterAppartement([FromForm] string NomLogement, [FromForm] int NbrePieces, [FromForm] float Loyer, [FromForm] List<IFormFile> Images)
         {
             var Logement = _LogementRepository.findLogementByNom(NomLogement);
@@ -143,6 +145,7 @@ namespace SLEI_Backend.Controllers
 
         [Route("AjouterStudio")]
         [HttpPost]
+        [Authorize]
         public async Task<IActionResult> AjouterStudio([FromForm] string NomLogement, [FromForm] float Loyer, [FromForm] List<IFormFile> Images)
         {
             var Logement = _LogementRepository.findLogementByNom(NomLogement);
@@ -170,6 +173,15 @@ namespace SLEI_Backend.Controllers
                 return Ok(Std);
             }
         }
+        [Route("ListeLogements")]
+        [HttpGet]
+        public IActionResult getAllLogements([FromQuery] string NomVille)
+        {
+
+            var result= _LogementRepository.findLogementByNomVille(NomVille);
+
+            return Ok(result);
+        }
             // PUT api/<LogementController>/5
             [HttpPut("{id}")]
         public void Put(int id, [FromBody]string value)
@@ -184,7 +196,9 @@ namespace SLEI_Backend.Controllers
 
         private async void SaveImages(string Type, List<IFormFile> Images, string numero, Logement logement= null , Appartement App= null, Studio Std=null)
         {
-            var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", Type, numero);
+            // var uploadsFolder = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot", "Images", Type, numero);
+
+            var uploadsFolder = Path.Combine("C:\\xampp\\htdocs", "Images", Type, numero);
 
             if (!Directory.Exists(uploadsFolder))
                 Directory.CreateDirectory(uploadsFolder);
@@ -193,6 +207,8 @@ namespace SLEI_Backend.Controllers
             {
                 var fileName = Guid.NewGuid().ToString() + Path.GetExtension(imageFile.FileName);
                 var filePath = Path.Combine(uploadsFolder, fileName);
+
+                var httpfilePath = $"http://localhost:80/Images/{Type}/{numero}/{fileName}";
 
                 using (var stream = new FileStream(filePath, FileMode.Create))
                 {
@@ -204,7 +220,8 @@ namespace SLEI_Backend.Controllers
                     logement.Images.Add(
                     new Image
                     {
-                        Url = filePath,
+                        // Url = filePath,
+                        Url= httpfilePath,
                         LogementId = logement.LogementId
                     }
 
@@ -215,7 +232,7 @@ namespace SLEI_Backend.Controllers
                     App.Images.Add(
                         new Image
                         {
-                            Url = filePath,
+                            Url = httpfilePath,
                             AppartementId = App.AppartementId
                         }
                         );
@@ -226,13 +243,15 @@ namespace SLEI_Backend.Controllers
                     Std.Images.Add(
                         new SLEI.Domain.Image
                         {
-                            Url = filePath,
+                            Url = httpfilePath,
                             StudioId = Std.StudioId
                         }
                         );
                 }
                 
             }
+
+           
         }
     }
 }
